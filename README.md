@@ -1,12 +1,6 @@
 # Ucapan Wisuda buat Chil ✿
 
-Website statis siap GitHub Pages.
+Versi v11 — audit VN/transkrip. Kutipan literal hanya ditampilkan pada audio yang teksnya sudah terverifikasi. VN lain memakai konteks tanggal atau diputar tanpa transkrip.
 
-## Deploy
-1. Upload semua isi folder ini ke root repository GitHub.
-2. Pastikan `index.html` berada di root repository.
-3. Buka Settings → Pages.
-4. Pada Build and deployment, pilih Deploy from a branch.
-5. Pilih branch `main` dan folder `/ (root)` lalu Save.
-
-Website ini menggunakan satu file HTML mandiri; foto, audio, video, CSS, dan JavaScript sudah tertanam di dalam `index.html`.
+## GitHub Pages
+Unggah seluruh isi folder ini ke root repository, lalu aktifkan Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
