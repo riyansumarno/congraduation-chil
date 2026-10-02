@@ -1,10 +1,8 @@
-# Ucapan Wisuda buat Chil ✿
+# Ucapan Wisuda buat Chil ✿ — v19
 
 Website statis siap GitHub Pages.
 
-Backsound **Every Summertime — NIKI** diputar melalui embed resmi YouTube, sehingga membutuhkan koneksi internet dan tidak disimpan sebagai file audio di repository. Browser tertentu dapat meminta satu kali klik pada tombol musik sebelum audio mulai.
+- `index.html` — halaman utama
+- `.nojekyll` — mencegah pemrosesan Jekyll
 
-## GitHub Pages
-1. Unggah isi folder ini ke root repository.
-2. Settings → Pages.
-3. Deploy from a branch → `main` → `/ (root)`.
+Catatan v19: progress bar horizontal di bagian atas sudah dihapus; backsound, navigasi melayang, galeri desktop, VN/video, dan seluruh fitur lain tetap dipertahankan.
