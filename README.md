@@ -1,11 +1,10 @@
 # Ucapan Wisuda buat Chil ✿
 
-Versi v15. Website statis siap GitHub Pages. Semua aset tertanam dalam `index.html`.
+Website statis siap GitHub Pages.
 
-## Cara mengunggah
+Backsound **Every Summertime — NIKI** diputar melalui embed resmi YouTube, sehingga membutuhkan koneksi internet dan tidak disimpan sebagai file audio di repository. Browser tertentu dapat meminta satu kali klik pada tombol musik sebelum audio mulai.
 
-1. Ekstrak ZIP lalu unggah `index.html`, `.nojekyll`, dan `README.md` ke root repository GitHub.
-2. Buka Settings → Pages.
-3. Di Build and deployment, pilih Deploy from a branch, branch `main`, folder `/ (root)`, lalu Save.
-
-Catatan: Gunakan hanya apabila materi personal di website memang disetujui untuk dipublikasikan.
+## GitHub Pages
+1. Unggah isi folder ini ke root repository.
+2. Settings → Pages.
+3. Deploy from a branch → `main` → `/ (root)`.
