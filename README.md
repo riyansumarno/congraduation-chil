@@ -1,2 +1,1 @@
-# Ucapan Wisuda buat Chil — v19
-Versi v19 dengan audit ulang VN/transkrip.
+Ucapan Wisuda buat Chil — v19 revisi. Upload index.html dan .nojekyll ke root repository GitHub Pages.
